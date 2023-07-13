@@ -6,3 +6,7 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+body {
+  background: linear-gradient(270deg, #dde2d7, #c6d6b4);
+}
